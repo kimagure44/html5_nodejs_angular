@@ -1,0 +1,19 @@
+{
+  "name": "html5_nodejs_angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kimagure44@github.com/kimagure44/html5_nodejs_angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimagure44/html5_nodejs_angular/issues"
+  },
+  "homepage": "https://github.com/kimagure44/html5_nodejs_angular#readme"
+}
